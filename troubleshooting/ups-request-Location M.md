@@ -1,4 +1,4 @@
-# 🔋 UPS Request Report: Madrigal Kiosks
+# 🔋 UPS Request Report: Location-M Kiosks
 
 **Date:** [Insert Date]  
 **Requested by:** Jose Antonio Acebuche
