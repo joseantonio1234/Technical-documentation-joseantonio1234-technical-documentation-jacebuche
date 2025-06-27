@@ -10,7 +10,7 @@ To generate a test receipt with updated parking rates without affecting the live
 ## 🧪 Process Performed
 1. Backup production database.
 2. Restore to test database.
-3. Connect to WinPark.
+3. Connect to parking application.
 4. Upload new rate masterfile.
 5. Simulate entry/exit time.
 6. Print receipt.
