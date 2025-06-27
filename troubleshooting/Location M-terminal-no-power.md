@@ -1,7 +1,7 @@
 # ⚙️ Incident Report: Terminal – No Power / No Display
 
 **Date:** [Insert Date]  
-**Technician:** [Technician Name]  
+**Technician:** jose antonio acebuche
 **Location:** Exit Terminal (Reassigned Area)
 
 ---
