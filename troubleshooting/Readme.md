@@ -19,6 +19,7 @@ Each report follows a standard format that includes:
 | `receipt-print-test-new-rate.md`       | Safe test print procedure with updated rates     |
 | `card-dispenser-sensor-fault.md`       | Card unit undetected due to board/sensor issue   |
 | `ups-request-client-kiosks.md`         | Request for UPS provisioning at kiosk stations   |
+| `Application Drive Not Detected.md`    | Request for UPS provisioning at kiosk stations   |
 
 
 ---
