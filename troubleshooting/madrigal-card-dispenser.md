@@ -1,4 +1,4 @@
-# 🛠️ Technical Report: Card Dispenser – Madrigal
+# 🛠️ Technical Report: Card Dispenser – location M
 
 **Date:** [Insert Date]  
 **Technician:** Jose Antonio Acebuche
