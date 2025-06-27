@@ -22,7 +22,7 @@
 
 ### 2. Select the Database
 - In the **Object Explorer**, expand the `Databases` node.
-- Right-click the target database (e.g., `AccupperDB`) → **Tasks** → **Back Up...**
+- Right-click the target database (e.g., `LocalDB`) → **Tasks** → **Back Up...**
 
 ---
 
@@ -58,3 +58,4 @@
 ---
 
 ## 📂 Example Output:
+C:\DB_Backup_20250627.bak
