@@ -15,7 +15,7 @@
 ## 🧪 Troubleshooting & Action Taken:
 
 1. **Restarted** the terminal to attempt automatic recovery.
-2. After reboot, Drive D: was still **not recognized** initially.
+2. After reboot, Drive D: was ** recognized** initially.
 3. As a precaution, performed a **manual backup** of critical application data and databases.
    - **Backed up to Drive C:** (main system drive) to ensure data integrity.
 4. Checked system logs and disk management for drive status.
