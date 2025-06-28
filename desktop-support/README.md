@@ -39,4 +39,4 @@ All client-specific or location-sensitive data (e.g., kiosk names, terminal IDs)
 ---
 
 ## 🙋 About the Author
-Maintained by **Jose Antonio Acebuche**, technical support staff with hands-on experience in desktop support, parking systems, database handling, and hardware diagnostics.
+Maintained by **Jose Antonio Acebuche**, IT Specialist with hands-on experience in desktop support, parking systems, database handling, and hardware diagnostics.
