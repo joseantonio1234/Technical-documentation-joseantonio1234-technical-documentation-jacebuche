@@ -7,5 +7,5 @@ This repository contains technical reports, system documentation, and troublesho
 
 ## Structure:
 - `sql/` – SQL Server queries, backup/restore processes
-- `desktop-support/` – Reports related to desktop and hardware issues
+- `desktop-support/` – Reports related to desktop and hardware issues and documentation
 - `troubleshooting/` – Parking systems, barriers, kiosk issues, UPS requests, and more
