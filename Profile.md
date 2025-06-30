@@ -23,7 +23,7 @@
 ### 🚧 **Technical Support Staff – Chase Technologies**  
 📍 Alabang Town Center | *Jan 2024 – Present*  
 - Maintains SQL Server backups, restores, and system logs  
-- On-site support for kiosks, CCTV, POS systems, access control  
+- On-site support for kiosks, CCTV, POS systems, desktop computer  
 - Led deployment of a **parking automation project** (P1, P4, P6)  
 - Writes and maintains SOPs, incident documentation, and system records  
 - Provides day-to-day support for all IT equipment with minimal supervision
