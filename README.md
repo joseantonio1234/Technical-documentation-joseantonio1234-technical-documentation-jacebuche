@@ -1,13 +1,21 @@
-# 📘 Jose Antonio Acebuche – Documentation & Work Portfolio
+# 👋 Welcome to my IT Support Portfolio!
 
-Author: Jose Antonio Acebuche  
-Date Started: June 2025
+Hi, I'm Tony — a Technical Support Specialist with experience in:
 
-This is my repository profile and a collection of my documentation and work. It includes technical reports, system documentation, and troubleshooting logs based on real-world experience in parking system integration, IT support, and SQL/database handling.
+- SQL Server Administration (Level 2 & 3 support)
+- Parking system automation projects
+- Desktop & Network troubleshooting
+- Linux (basic CLI and admin)
+- POS, kiosk, barrier system handling
 
-## 📂 Structure:
-- `sql/` – SQL Server queries, backup/restore processes
-- `desktop-support/` – Reports related to desktop and hardware issues and documentation
-- `troubleshooting/` – Parking systems, barriers, kiosk issues, UPS requests, and more
-- `informal-education/` – Certificates and notes from platforms like Coursera and Udemy
-- `project-documentation/` – Workflows, project-specific implementation reports, testing environments, and configuration logs
+## 📁 Repository Structure
+- `/Project Documentation` – Real-world project reports
+- `/sql` – SQL scripts and database troubleshooting
+- `/desktop-support` – SOPs, checklist, support logs
+- `/troubleshooting` – Actual incidents and resolutions
+- `/Informal education` – Online/self-study certificates
+
+## 📌 Career Goals
+To become a System Administrator and later a Solutions Architect.
+
+📫 Contact me via LinkedIn | Email | [Add info here]
