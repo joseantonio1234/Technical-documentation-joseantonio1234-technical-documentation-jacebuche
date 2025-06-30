@@ -11,7 +11,7 @@
 
 - **Databases**: SQL Server (Backup, Restore, Logs, Query Support)  
 - **OS**: Windows, Linux (basic admin)  
-- **Support Tools**: CCTV, POS, kiosks, biometric devices, printers, access control  
+- **Support Tools**: CCTV, POS, kiosks, peripheral devices, printers, desktop computer / Server  
 - **Networking**: LAN/WAN, basic Cisco config, cabling, router/switch setup  
 - **Scripting**: Bash (basic), BAT scripts  
 - **Docs**: SOP writing, incident reports, deployment logs
