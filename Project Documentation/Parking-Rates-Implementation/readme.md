@@ -21,8 +21,6 @@ This folder contains the documentation, sample test outputs, and visual referenc
   👉 Follow-up ticket reflecting hourly increment configuration validation.
 - **`readme.md`**  
   👉 Overview and visual validation references.
-- **`0-02-06-...d1b.jpg`**  
-  👉 Likely a snapshot or system confirmation used during testing (naming may need cleanup).
 
 ---
 
