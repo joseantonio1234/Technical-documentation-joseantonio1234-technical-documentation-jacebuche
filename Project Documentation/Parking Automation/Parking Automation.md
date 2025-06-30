@@ -1,7 +1,7 @@
 # 🚗 Parking Automation Project – P1, A-Mall parking 
 
 **Project Title:** Parking Entry & Payment System Automation (P1 Area)  
-**Client:** Alabang Town Center  
+**Client:** A Center Alabang  
 **Role:** Technical Support / On-site Implementation Lead  
 **Date Implemented:** [Insert Date Here]  
 **Tools Used:** SQL Server, POS system, Barrier Gates, Linux kiosk system, LAN setup
