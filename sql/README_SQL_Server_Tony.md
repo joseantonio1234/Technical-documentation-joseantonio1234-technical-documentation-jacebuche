@@ -8,11 +8,13 @@ Welcome to my SQL Server documentation repository. This folder contains hands-on
 
 ## 🔧 What You'll Find Here
 
-### 📂 `SQL_Server_Archiving_Guide_Tony_Acebuche.md`
-A complete guide on how I handle data archiving to reduce database size in production environments. Covers:
-- Purpose and benefits of archiving
-- When and how to archive data
+
+A complete guide on how I handle data management in production environments. Covers:
+- Archiving database
+- Shrink database
 - Best practices and sample SQL workflows
+- backup database
+- Common Cause of data corruption
 
 ### 📋 Planned Additions
 - `SQL_Server_Support_Levels.md` – Overview of L1, L2, and L3 support roles in SQL Server
