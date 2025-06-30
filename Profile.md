@@ -3,7 +3,7 @@
 💻 **IT Specialist | System Support | Onsite Support**  
 📍 Based in Muntinlupa, Philippines  
 🔧 2 years experience in technical support, infrastructure deployments, and SQL Server management  
-🌱 Currently learning: Linux system administration, CompTIA Linux+, LPIC-1  
+🌱 Currently learning: Linux system administration, CompTIA Linux+  
 
 ---
 
