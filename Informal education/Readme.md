@@ -44,7 +44,7 @@ To showcase my commitment to continuous learning and self-improvement outside tr
 
 ## 🧾 Note
 
-These informal educational efforts have helped strengthen my technical foundations and prepared me for real-world troubleshooting, system implementation, and data-related tasks.
+These informal educational efforts have helped strengthen my technical foundations and prepared me for real-world troubleshooting, system Administration, and data-related tasks.
 
 ---
 
