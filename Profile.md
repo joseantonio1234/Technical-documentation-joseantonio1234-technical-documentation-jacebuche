@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jose Antonio Acebuche (Tony)
 
-💻 **IT Specialist | System Support | SQL Server Admin**  
+💻 **IT Specialist | System Support | Onsite Support**  
 📍 Based in Muntinlupa, Philippines  
 🔧 2 years experience in technical support, infrastructure deployments, and SQL Server management  
 🌱 Currently learning: Linux system administration, CompTIA Linux+, LPIC-1  
