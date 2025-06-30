@@ -1,3 +1,4 @@
+
 # 🅿️ Parking Rate Implementation – Project Documentation
 **Author:** Jose Antonio "Tony" Acebuche  
 **Project Location:** Alabang Town Center – Parking Automation System  
@@ -64,5 +65,10 @@ The goal of this project was to:
 
 ---
 
-📌 *This project is part of my ongoing effort to improve operational reliability and documentation standards in live production environments.*  
-📂 **More projects available in the `Project Documentation` folder.**
+🔒 **Privacy & Data Handling Notice**
+
+All images, tickets, and references included in this documentation have been **anonymized** to protect sensitive or personal information. No customer names, plate numbers, or identifiable data are shown.
+
+This repository is intended for **educational, documentation, and portfolio purposes** only. Any real-world content has been reviewed and sanitized in compliance with data protection standards.
+
+For internal deployment or confidential system access, please refer to the secured internal repository or contact the authorized IT personnel.
