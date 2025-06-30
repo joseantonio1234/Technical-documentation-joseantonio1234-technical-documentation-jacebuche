@@ -2,7 +2,7 @@
 
 Hi, I'm Tony — a Technical Support Specialist with experience in:
 
-- SQL Server Administration (Level 2 & 3 support)
+- SQL Server Administration (Level 1,2 & 3 support)
 - Parking system automation projects
 - Desktop & Network troubleshooting
 - Linux (basic CLI and admin)
@@ -18,4 +18,4 @@ Hi, I'm Tony — a Technical Support Specialist with experience in:
 ## 📌 Career Goals
 To become a System Administrator and later a Solutions Architect.
 
-📫 Contact me via LinkedIn | Email | [Add info here]
+📫 Contact me via LinkedIn | Email - joseantonioacebuche@gmail.com
