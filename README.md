@@ -1,4 +1,4 @@
-# 👋 Welcome to my IT Support Portfolio!
+# 👋 Welcome to my IT Specialist Portfolio!
 
 Hi, I'm Tony — a Technical Support Specialist with experience in:
 
