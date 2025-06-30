@@ -2,7 +2,7 @@
 
 Hi, I'm Tony — a Technical Support Specialist with experience in:
 
-- SQL Server Administration (Level 1,2 & 3 support)
+- SQL Server Administration (Level 1,2 emerging level 3 support)
 - Parking system automation projects
 - Desktop & Network troubleshooting
 - Linux (basic CLI and admin)
