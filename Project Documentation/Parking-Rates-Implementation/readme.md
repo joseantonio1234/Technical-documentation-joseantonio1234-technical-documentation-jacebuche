@@ -1,7 +1,7 @@
 
 # 🅿️ Parking Rate Implementation – Project Documentation
 **Author:** Jose Antonio "Tony" Acebuche  
-**Project Location:** Alabang Town Center – Parking Automation System  
+**Project Location:** All Center – Parking Automation System  
 **Role:** IT Specialist (Tech Support Staff, SQL Admin & Deployment Lead)  
 
 ---
@@ -29,7 +29,7 @@ This folder contains the documentation, sample test outputs, and visual referenc
 ## 🎯 Project Purpose
 
 The goal of this project was to:
-- Implement **new parking rate structures** in the ATC parking system.
+- Implement **new parking rate structures** in the All parking system.
 - Validate rate logic (first-hour charge, succeeding hour increments).
 - Ensure **visual compliance** with publicly displayed signage.
 - Conduct **controlled testing** before production rollout.
