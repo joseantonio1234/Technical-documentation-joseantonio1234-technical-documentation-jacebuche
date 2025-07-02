@@ -1,9 +1,9 @@
-# 🚀 Deployment Summary – Parking Rate Update (ATC)
+# 🚀 Deployment Summary – Parking Rate Update (A-Center)
 
 **Deployed by:** Jose Antonio "Tony" Acebuche  
 **Role:** Technical Support Specialist / IT Specialist  
 **Date of Implementation:** Midnight – June 30 to early morning of July 1, 2025  
-**Location:** Alabang Town Center  
+**Location:** A-Center  
 
 ---
 
