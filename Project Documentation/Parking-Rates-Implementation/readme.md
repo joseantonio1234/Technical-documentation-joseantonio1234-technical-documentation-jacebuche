@@ -1,7 +1,7 @@
 
 # 🅿️ Parking Rate Implementation – Project Documentation
 **Author:** Jose Antonio "Tony" Acebuche  
-**Project Location:** All Center – Parking Automation System  
+**Project Location:** A - Center – Parking Automation System  
 **Role:** IT Specialist (Tech Support Staff, SQL Admin & Deployment Lead)  
 
 ---
@@ -13,9 +13,7 @@ This folder contains the documentation, sample test outputs, and visual referenc
 ### 📂 Included Files:
 - **`parking_rate_update_process.pdf`**  
   👉 Step-by-step process for updating rates on the system.
-- **`parking rates public display.jpg`**  
-  👉 Image of the official rate signage used for field configuration reference.
-- **`regular rate test ticket.jpg`**  
+- **`Technical Report_ Receipt Printing with New Parking Rates.pdf`**  
   👉 Actual ticket from test transaction showing regular parking rate before final go-live.
 - **`regular rate with succeeding time.jpg`**  
   👉 Follow-up ticket reflecting hourly increment configuration validation.
