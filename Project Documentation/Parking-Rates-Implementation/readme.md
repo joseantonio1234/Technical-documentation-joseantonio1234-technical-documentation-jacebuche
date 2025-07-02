@@ -15,7 +15,7 @@ This folder contains the documentation, sample test outputs, and visual referenc
   👉 Step-by-step process for updating rates on the system.
 - **`Technical Report_ Receipt Printing with New Parking Rates.pdf`**  
   👉 Actual ticket from test transaction showing regular parking rate before final go-live.
-- **`regular rate with succeeding time.jpg`**  
+- **`🧾 Parking Rate Update Process Documentation.pdf`**  
   👉 Follow-up ticket reflecting hourly increment configuration validation.
 - **`readme.md`**  
   👉 Overview and visual validation references.
